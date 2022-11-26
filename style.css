@@ -32,7 +32,7 @@
 body{background:#eaeaea;
      height:100vh;
      Display:grid;
-     text-align:center}
+     place-idem:center}
 
 h1{font-size:25px;
 text-align: left;
