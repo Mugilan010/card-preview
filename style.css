@@ -85,7 +85,7 @@ font-family: 'Fraunces', serif;}
 
 /* for mobile */
 
-@media (width:500px) {
+@media (max-width:500px) {
 
 .card{flex-direction: column;
       width:300px;}
